@@ -5,12 +5,15 @@
 
 .side-wrapper{
   width: 300px;
+  height: 100vh;
   background-color: #253141;
 }
 
 .side-header{
   height: 100px;
+  width: 300px;
   padding: 0 20px;
+  background-color: #253141;
   display: flex;
   justify-content: space-between;
   align-items: center;
